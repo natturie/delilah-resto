@@ -6,10 +6,10 @@ Proyecto final de Desarrollo Web Full Stack de Acamica y Globant.***
 
 ## Para comenzar 
 
-Puedes descargar el repositorio en Github https://github.com/nattury/delilah-resto
+Puedes descargar el repositorio en Github https://github.com/natturie/delilah-resto
 
 o clonarlo:
-$ git clone https://github.com/nattury/delilah-resto.git
+$ git clone https://github.com/natturie/delilah-resto.git
 
 ### Pre-requisitos 
 
